@@ -2,6 +2,7 @@
 
 import { getEntry, render } from "astro:content";
 import Markdown from "@components/common/Markdown.astro";
+import Comment from "@components/comment/index.astro";
 import I18nKey from "@/i18n/i18nKey";
 import { i18n } from "@/i18n/translation";
 import MainGridLayout from "@/layouts/MainGridLayout.astro";
@@ -22,4 +23,5 @@ const { Content } = await render(aboutPost);
             </Markdown>
         </div>
     </div>
+    <Comment post={aboutPost} />
 </MainGridLayout>
