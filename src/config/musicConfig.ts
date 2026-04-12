@@ -50,9 +50,23 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
+				name: "铁齿铜牙纪晓岚",
 				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
+				url: "/assets/music/铁齿铜牙纪晓岚.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
+						{
+				name: "江湖天涯客",
+				artist: "知更鸟 / HOYO-MiX / Chevy",
+				url: "/assets/music/江湖天涯客.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
+						{
+				name: "可惜春风不懂我伤悲",
+				artist: "知更鸟 / HOYO-MiX / Chevy",
+				url: "/assets/music/可惜春风不懂我伤悲.mp3",
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
