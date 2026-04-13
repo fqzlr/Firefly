@@ -27,7 +27,17 @@ export const friendsConfig: FriendLink[] = [
 		imgurl:
 			"https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640",
 		desc: "坐而言不如起而行.",
-		siteurl: "https://682000.xyz/",
+		siteurl: "https://fqzlr.top/",
+		tags: ["Blog"],
+		weight: 10, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+		{
+		title: "椰汁の主页",
+		imgurl:
+			"https://free.picui.cn/free/2026/03/23/69c12fe83f7a4.jpg",
+		desc: "坐而言不如起而行.",
+		siteurl: "关关难过关关过,前路漫漫亦灿灿",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用

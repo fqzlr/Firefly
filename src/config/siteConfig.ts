@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "https://682000.xyz",
+	site_url: "https://fqzlr.top/",
 
 	// 站点描述
 	description:
