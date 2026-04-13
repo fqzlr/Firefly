@@ -36,8 +36,8 @@ export const friendsConfig: FriendLink[] = [
 		title: "椰汁の主页",
 		imgurl:
 			"https://free.picui.cn/free/2026/03/23/69c12fe83f7a4.jpg",
-		desc: "坐而言不如起而行.",
-		siteurl: "关关难过关关过,前路漫漫亦灿灿",
+		desc: "关关难过关关过,前路漫漫亦灿灿.",
+		siteurl: "https://home.132614.xyz/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
