@@ -3,7 +3,7 @@ import type { Live2DModelConfig, SpineModelConfig } from "../types/config";
 // Spine 看板娘配置
 export const spineModelConfig: SpineModelConfig = {
 	// Spine 看板娘开关
-	enable: true,
+	enable: false,
 
 	// Spine模型配置
 	model: {
@@ -86,7 +86,7 @@ export const spineModelConfig: SpineModelConfig = {
 // Live2D 看板娘配置
 export const live2dModelConfig: Live2DModelConfig = {
 	// Live2D 看板娘开关
-	enable: false,
+	enable: true,
 	// Live2D模型配置
 	model: {
 		// Live2D模型文件路径
