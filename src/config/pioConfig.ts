@@ -85,7 +85,7 @@ export const spineModelConfig: SpineModelConfig = {
 // Live2D 看板娘配置
 export const live2dModelConfig: Live2DModelConfig = {
 	// Live2D 看板娘开关
-	enable: true,
+	enable: false,
 	// Live2D模型配置
 	model: {
 		// Live2D模型文件路径
